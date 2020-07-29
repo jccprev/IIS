@@ -1,0 +1,112 @@
+body {
+    /* background-color: #5c9884b8; */
+    /* background-image: url(https://combo.staticflickr.com/ap/build/images/sohp/2019-top-25/Claire%20Gentile_USSJohnFKennedy.jpg); */
+    /* background-image: url("https://combo.staticflickr.com/ap/build/images/sohp/2019-top-25/Alex_Noriega_Pure_Magic.jpg"); */
+    /* background-image: url(https://combo.staticflickr.com/ap/build/images/sohp/2019-top-25/Martin_Heigan_Sharpless_308_Dolphin_Nebula.jpg); */
+    /* background-image: url(https://combo.staticflickr.com/ap/build/images/sohp/2019-top-25/Ann_and_Chris_Short_Eared_Owl.jpg); */
+    /* background-image: url(https://live.staticflickr.com/65535/49235136806_18b4e2487a_3k.jpg); */
+    background-image: url(img/49235136806_18b4e2487a_3k.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0px;
+}
+
+.nave {
+    background-color: rgba(0, 0, 0, 0.25);
+    height: 60px;
+}
+
+#titulo {
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 40px;
+    line-height: 0.5;
+    color: #ffffff;
+}
+
+#logo_github { 
+    color: white;
+    fill: currentColor;
+}
+
+.abacate { 
+    height: 83vh;
+}
+
+.div_do_meio { 
+    background-color: rgba(0, 0, 0, 0.09);
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.text_de_cima {
+    font-family: 'Inria Sans', sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.txt1 {
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: white;
+    word-wrap: break-word;
+    text-align: center;
+    margin: 0;
+}
+
+.txt2 {
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    word-wrap: break-word;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.txt3 {
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.txt4 {
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.email {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Inria Sans', sans-serif;
+
+}
+
+.link_foto {
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: antiquewhite;
+}
+
+.flickr {
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
